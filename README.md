@@ -1,5 +1,6 @@
 # Meilleur Code Parrainage MCP server
 
+[![mcptry](https://mcptry.com/badge/com.meilleurcodeparrainage/codes-parrainage)](https://mcptry.com/servers/com.meilleurcodeparrainage/codes-parrainage)
 [![Meilleur Code Parrainage MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.meilleurcodeparrainage/codes-parrainage/badges/score.svg)](https://glama.ai/mcp/connectors/com.meilleurcodeparrainage/codes-parrainage)
 
 Public, read-only [Model Context Protocol](https://modelcontextprotocol.io) server for **[Meilleur Code Parrainage](https://meilleurcodeparrainage.com/)**, a French-language directory of referral codes (codes de parrainage) verified on the brands' official pages: online banks, energy, crypto, shopping, telecom, insurance, travel, food delivery, paid surveys.
