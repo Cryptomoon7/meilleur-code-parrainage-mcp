@@ -1,6 +1,6 @@
 # Meilleur Code Parrainage MCP server
 
-[![Meilleur Code Parrainage MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu)
+[![Meilleur Code Parrainage MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.meilleurcodeparrainage/codes-parrainage/badges/score.svg)](https://glama.ai/mcp/connectors/com.meilleurcodeparrainage/codes-parrainage)
 
 Public, read-only [Model Context Protocol](https://modelcontextprotocol.io) server for **[Meilleur Code Parrainage](https://meilleurcodeparrainage.com/)**, a French-language directory of referral codes (codes de parrainage) verified on the brands' official pages: online banks, energy, crypto, shopping, telecom, insurance, travel, food delivery, paid surveys.
 
@@ -10,7 +10,7 @@ Public, read-only [Model Context Protocol](https://modelcontextprotocol.io) serv
 - **Coverage:** referral programs available in France and French-speaking countries
 - **User guide (FR):** https://meilleurcodeparrainage.com/assistants-ia/
 - **Privacy:** https://meilleurcodeparrainage.com/confidentialite/
-- **Registry:** `io.github.Cryptomoon7/codeactu` on the [official MCP Registry](https://registry.modelcontextprotocol.io)
+- **Registry:** `com.meilleurcodeparrainage/codes-parrainage` on the [official MCP Registry](https://registry.modelcontextprotocol.io)
 
 ## Tools
 
@@ -59,7 +59,7 @@ Meilleur Code Parrainage est un annuaire francophone de **codes de parrainage v�
 
 ## Contact
 
-contact.codeactu@gmail.com
+https://meilleurcodeparrainage.com/a-propos/
 
 ## License
 
